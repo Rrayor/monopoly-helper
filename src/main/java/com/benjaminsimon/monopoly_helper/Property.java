@@ -1,4 +1,4 @@
-package com.benjaminsimon.monopoly_helper;
+package main.java.com.benjaminsimon.monopoly_helper;
 
 public class Property {
 
